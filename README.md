@@ -1,4 +1,4 @@
-# Ring Around the Mosey (AirDrop Enabler for rooted Pixel 9 series devices)
+# Ring Around the Mosey (AirDrop Enabler for Pixel 9 Series)
 
 A KernelSU/Magisk module to force-enable Google's staged A/B rollout of "Mosey" (native Android-to-Apple AirDrop interoperability Quick Share Extension). 
 
@@ -6,7 +6,7 @@ A KernelSU/Magisk module to force-enable Google's staged A/B rollout of "Mosey" 
 
 ## Prerequisites
 * **Device:** Pixel 9 Series (Tested: Pixel 9 Pro).
-* **Root:** Magisk or KernelSU Next.
+* **Root:** Magisk or KernelSU / KernelSU Next.
 * **Firmware:** A recent Google Play Services / Quick Share build containing the `com.google.android.mosey` package.
 
 

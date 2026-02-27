@@ -1,0 +1,7 @@
+id=ring-around-the-mosey
+name=Ring Around the Mosey (AirDrop Enabler)
+version=v0.0.1-alpha
+versionCode=1
+author=UnTrustedInstaller   
+description=Force-enables Google's Quick Share to Apple AirDrop feature on rooted Pixel 9 series devices
+updateJson=https://raw.githubusercontent.com/DanielNappa/ring-around-the-mosey/main/release.json
